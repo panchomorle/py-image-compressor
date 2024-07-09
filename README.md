@@ -4,11 +4,11 @@ _1. Converts image to only binary-coloured (black & white)
  
 ### Let's see it work:
 #####     BEFORE
-![input image](example-folder\example-image.jpg)
+![input image](example-folder/example-image.jpg)
 **Size: 760 KB**
  
 #####     AFTER
-![output image](my-brand-new-images\example-image.png)
+![output image](my-brand-new-images/example-image.png)
 **Size: 41.7 KB**
  
 _Amazing, isn't it?_
