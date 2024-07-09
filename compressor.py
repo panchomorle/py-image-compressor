@@ -11,8 +11,8 @@
 import cv2
 import os
 
-directory = r"D:\full\path\to\your\folder"
-new_dir = r"D:\documents\brand_new_folder" #imagine a directory for ur new images
+directory = r"example-folder" #path to the folder containing the images
+new_dir = r"my-brand-new-images" #imagine a directory for ur new images
 os.mkdir(new_dir) #-----------------------> actually create that directory
 
 for file in os.listdir(directory): #list the names of all the files in the folder
