@@ -1,14 +1,17 @@
 # ULTIMATE IMAGE COMPRESSOR
-_1. Converts image to only binary-coloured (black & white)
-2. Halves the size of the image (by default, but u can change it)_
+_1. Converts image to only binary-coloured (black & white)_
+
+_2. Halves the size of the image (by default, but u can change it)_
  
 ### Let's see it work:
 #####     BEFORE
-![input image](example-folder/example-image.jpg)
+<img src="example-folder/example-image.jpg" alt="input image" width="600" height="800">
+
 **Size: 760 KB**
  
 #####     AFTER
-![output image](my-brand-new-images/example-image.png)
+<img src="my-brand-new-images/example-image.png" alt="output image" width="600" height="800">
+
 **Size: 41.7 KB**
  
 _Amazing, isn't it?_
